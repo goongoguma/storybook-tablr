@@ -19,9 +19,9 @@ export const Tablr = ({
   // 2. The length of all of the rows must equal the header length
   useEffect(() => {
     if (headers.length < 1) {
-      throw Error('Must have at least one header');
+      throw Error('Must have at least one header!');
     } else if (!rows.every(r => r.length === headers.length)) {
-      throw Error('Row length must equal header length');
+      throw Error('Row length must equal header length!');
     }
   }, [rows, headers]);
 
