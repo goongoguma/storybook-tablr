@@ -2,12 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 abcdefg
-<<<<<<< HEAD
-this is feature branch!
-=======
 this is feature branch
 this is main branch
->>>>>>> 436e26a (this is main branch)
 
 ## Available Scripts
 
