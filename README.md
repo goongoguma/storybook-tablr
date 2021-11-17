@@ -7,6 +7,9 @@ this is main branch
 
 <br> MAIN CONFLICT TEST
 
+<br>
+
+THIS IS FEATURE CONFLICT RESOLVE TEST
 ## Available Scripts
 
 In the project directory, you can run:
