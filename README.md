@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 main-1<br>
 feature-1<br>
 feature-2<br>
+feature-2<br>
 
 ## Available Scripts
 
