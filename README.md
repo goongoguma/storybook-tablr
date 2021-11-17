@@ -7,6 +7,9 @@ this is main branch
 
 <br> MAIN CONFLICT TEST
 
+<br>
+
+THIS IS FEATURE CONFLICT RESOLVE TEST
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,7 +19,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-this is main test
+this is main test 
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
