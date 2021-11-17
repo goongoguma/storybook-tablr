@@ -1,15 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-abcdefg
-this is feature branch
-this is main branch
-
-<br> MAIN CONFLICT TEST
-
 <br>
-
 THIS IS FEATURE CONFLICT RESOLVE TEST
+안녕하세요.
+
 ## Available Scripts
 
 In the project directory, you can run:
