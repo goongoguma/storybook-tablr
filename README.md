@@ -5,6 +5,8 @@ abcdefg
 this is feature branch
 this is main branch
 
+<br> MAIN CONFLICT TEST
+
 ## Available Scripts
 
 In the project directory, you can run:
